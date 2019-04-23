@@ -1,0 +1,26 @@
+{
+  "semantics": [
+    {
+      "label": "Mô tả nhiệm vụ",
+      "description": "Mô tả cách người dùng nên giải quyết nhiệm vụ này như thế nào."
+    },
+    {
+      "label": "Đa phương tiện",
+      "fields": [
+        {
+          "label": "Loại",
+          "description": "Đa phương tiện tùy chọn hiển thị phía trên câu hỏi."
+        }
+      ]
+    },
+    {
+      "label": "Nhãn lời giải mô tả",
+      "default": "Bấm để xem câu trả lời.",
+      "description": "Khu vực văn bản có thể bấm được nơi lời giải sẽ được hiển thị."
+    },
+    {
+      "label": "Văn bản lời giải",
+      "description": "Lời giải cho hình ảnh."
+    }
+  ]
+}
